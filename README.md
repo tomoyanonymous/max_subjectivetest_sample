@@ -2,6 +2,8 @@
 
 will write later...
 
+MIT Lisence
+
 Matsuura Tomoya
 
 <https://matsuuratomoya.com>
